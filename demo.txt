@@ -1,3 +1,4 @@
 Hello world!
 
+Hi
 This is a conflict
